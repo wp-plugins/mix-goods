@@ -1,4 +1,6 @@
 === Mix-Goods (Микс-Товары)===
+Contributors: Mixmarket
+Donate link: 
 Tags: adv, ad, ads, affiliate, mixmarket
 Requires at least: 2.5
 Tested up to: 3.1
