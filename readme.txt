@@ -23,7 +23,6 @@ Upload the Mix-Goods plugin to your blog, Activate it.
 
 Все настройки нужно производить в <a href=http://www.mixmarket.biz/doc/partners/goods/programs/?from=wordpress>кабинете партнера</a>
 
-
 == Changelog ==
 
 = 1.0 = 
