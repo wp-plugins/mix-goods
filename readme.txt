@@ -10,6 +10,7 @@ License: GPLv2 or later
 
 == Description ==
 Quick and easy installation of advertising Mix-Goods
+
 Плагин для быстрой и простой установки рекламных кодов Микс-Товары
 
 == Installation ==
