@@ -4,7 +4,7 @@ Donate link:
 Tags: adv, ad, ads, affiliate, mixmarket
 Requires at least: 2.5
 Tested up to: 3.1
-Stable tag: 2.5
+Stable tag: trunk
 License: GPLv2 or later
 
 Плагин для быстрой и простой установки рекламных кодов Микс-Товары
